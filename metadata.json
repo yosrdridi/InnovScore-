@@ -1,0 +1,6 @@
+{
+  "name": "Eligibilis · Diagnostic CIR & CII",
+  "description": "Plateforme SaaS B2B d'aide à l'analyse d'éligibilité CIR / CII, qualification Frascati, détection d'ingénierie et préparation d'audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
